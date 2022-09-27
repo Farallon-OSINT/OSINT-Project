@@ -1,0 +1,21 @@
+---
+{"aliases":"Donetsk, DPR, Donetsk People's Republic, Донецьк, Donets'k, Донецк, Aleksandrovka, Yuzivka, Hughesovka, Stalin, Stalino","locations":null,"tag":"camp, camp location, filtration","date":null,"dg-home":false,"dg-publish":true,"dg-pass-frontmatter":true,"location":[48.0158753,37.8013407],"permalink":"/maps/donetsk-donetsk-municipality-donetsk-oblast-83000-83490-ukraine/","dgHomeLink":true,"dgPassFrontmatter":true}
+---
+
+Representatives of Donetsk People's Republic and Luhansk People's Republic said they had set up a "[[Camps|tent city]] of 30 tents" with a capacity for 450 people.
+
+The US envoy to the OSCE, Michail Carpenter, told the organization's permanent council that according to credible reporting, Ukrainian civilians in the [[Camps|filtration camps]] were interrogated and those suspected of ties to independent media or the military were beaten or tortured before being transferred to the Donetsk region, "where they are reportedly disappeared - "Enforced disappearance" or murdered.
+[[Filtration Camp System|Filtration Camp System]]
+
+> **Donetsk** (UK: don-YETSK, US: də-N(Y)ETSK; Ukrainian: Донецьк, romanized: Donets'k [doˈnɛtsʲk] (listen); Russian: Донецк [dɐˈnʲetsk] (listen)), formerly known as Aleksandrovka, Yuzivka (or Hughesovka), Stalin and Stalino (see also: cities' alternative names), is an industrial city in eastern Ukraine located on the Kalmius River in Donetsk Oblast. The population was estimated at 905,364 (2021 est.) in the city core, with over 2 million in the metropolitan area (2011). According to the 2001 census, Donetsk was the fifth-largest city in Ukraine.Administratively, Donetsk has been the centre of Donetsk Oblast, while historically, it is the unofficial capital and largest city of the larger economic and cultural Donets Basin (Donbas) region. Donetsk is adjacent to another major city, Makiivka, and along with other surrounding cities forms a major urban sprawl and conurbation in the region. Donetsk has been a major economic, industrial and scientific centre of Ukraine with a high concentration of heavy industries and a skilled workforce. The density of heavy industries (predominantly steel production, chemical industry, and coal mining) determined the city's challenging ecological situation. In 2012 a UN report ranked Donetsk among the world's fastest depopulating cities.The original settlement in the south of the European part of the Russian Empire was first mentioned as Aleksandrovka in 1779, during the reign of the Empress Catherine the Great. In 1869 the Welsh businessman John Hughes founded a steel plant and several coal mines in the region, and the town was named Hughesovka or Yuzovka (Юзовка) in recognition of his role ("Yuz" being a Russian-language approximation of Hughes). During Soviet times, the city's steel industry expanded. In 1924 Yuzovka was renamed Stalin. In 1929 Stalin was renamed Stalino, and in 1932 the city became the centre of the Donetsk region. Renamed Donetsk in 1961, the city today remains a centre for coal mining and for the steel industry.
+>
+> Since April 2014 Donetsk and its surrounding areas have been one of the major sites of fighting in the ongoing Russo-Ukrainian War, as pro-Russian separatist forces battle against Ukrainian military forces for control of the city and surrounding areas. Throughout the war, the city of Donetsk has been administered by the pro-Russian separatist forces as the center of the Donetsk People's Republic (DPR), with outlying territories of the Donetsk region divided between the two sides. Donetsk International Airport became the epicenter of the war in 2014 with almost a year-long battle.
+>
+> As of August 2022, the DPR has full control of the city, with Ukrainian and DPR forces still engaging in combat touching the city.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Donetsk)
+
+
+They walked 4km (2.5 miles) to a Russian [[checkpoint|checkpoint]], and from there were taken further east, to territory held by pro-Russian rebels of the so-called "Donetsk People's Republic" (DPR) breakaway region.
+
+"Once there, you were to decide whether you were going to stay in the DPR or go to Russia," she said.
