@@ -1,5 +1,5 @@
 ---
-{"dg-pass-frontmatter":true,"dg-home":false,"dg-publish":true,"aliases":"camp, filtration, TAPs, TAP, filtration camps, filtration camp, forced deportation, kidnapping, kidnap, forced separation, forced migration, forcing migration, NKVD screening, special-purpose camps, special-purpose camp, Проверочно-фильтрационные лагеря НКВД СССР, NKVD special-purpose camps, NKVD special purpose camps, NKVD special purpose camp, NKVD special-purpose camp, лагеря специального назначения НКВД СССР, спецлагеря НКВД, NKVD Order No. 001735, Order No. 001735, Order No. 00100, Order No 001735, Order No 00100, Order 001735, Order 00100, проверочно-фильтрационные лагеря, verification and filtration camps, verification and filtration camp, verification camps, verification camp, detention, concentration camp, concentration camps, relocation, filtration system, filtration systems, internment, internment camp, internment camps,  boarding camp, boarding camps, forcibly removed, forcibly deported, deport, settle, town camp, town camps, tent camp, tent camps, tent city, filter camp, filter camps, filter, NKVD special camps, NKVD special camp, лагеря специального назначения НКВД СССР, спецлагеря НКВД, special camps, special camp, internment camp, internment camps","locations":null,"tag":null,"date":null,"title":"Camps","permalink":"/camps/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-pass-frontmatter":true,"dg-home":false,"dg-publish":true,"aliases":"camp, filtration,distribution point, distribution points,  TAPs, TAP, filtration camps, fil’tratsiia, filtration camp, forced deportation, detention centre, detention centres, detention center, detention centers, kidnapping, kidnap, forced separation, forced migration, forcing migration, forced displacement, NKVD screening, special-purpose camps, special-purpose camp, Проверочно-фильтрационные лагеря НКВД СССР, NKVD special-purpose camps, NKVD special purpose camps, NKVD special purpose camp, NKVD special-purpose camp, лагеря специального назначения НКВД СССР, спецлагеря НКВД, NKVD Order No. 001735, Order No. 001735, Order No. 00100, Order No 001735, Order No 00100, Order 001735, Order 00100, проверочно-фильтрационные лагеря, verification and filtration camps, verification and filtration camp, verification camps, verification camp, detention, detention camps, detention camp, concentration camp, concentration camps, relocation, filtration system, filtration systems, internment, internment camp, internment camps,  boarding camp, boarding camps, forcibly removed, forcibly deported, deport, settle, town camp, town camps, tent camp, tent camps, tent city, filter camp, filter camps, filter, NKVD special camps, NKVD special camp, лагеря специального назначения НКВД СССР, спецлагеря НКВД, special camps, special camp, internment camp, internment camps","locations":null,"tag":null,"date":null,"title":"Camps","permalink":"/camps/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -14,22 +14,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/NKVD%20filtration%20camps)
 
-[[Russia|Russia]]’s filtration [[operations|operations]] in Ukraine are devastating the lives of hundreds of thousands of civilians. A new Conflict Observatory report shines a light on these and other [[war crimes|atrocities]]. We will continue to work to hold [[Russia|Russian]] officials accountable.
+[[Russia|Russia]]’s filtration [[operations|operations]] in [[Maps/Ukraine|Ukraine]] are devastating the lives of hundreds of thousands of civilians. A new Conflict Observatory report shines a light on these and other [[war crimes|atrocities]]. We will continue to work to hold [[Russia|Russian]] officials accountable.
 
 https://twitter.com/secblinken/status/1562870023840231424
 
-[[Russia|Russia]] has set up a brutal internment (concentration) camp for Ukraine civilians in [[Kharkiv Oblast|Kharkiv Oblast]] in the town of [[Vovchansk|Vovchansk]] in [[Maps/Kharkiv Oblast, Ukraine|Kharkiv Oblast]]. internment camp, concentration camp
+[[Russia|Russia]] has set up a brutal internment (concentration) camp for [[Maps/Ukraine|Ukraine]] civilians in [[Maps/Kharkiv Oblast, Ukraine|Kharkiv Oblast]] in the town of [[Maps/Vovchansk, Вовчанська міська громада, Chuhuiv Raion, Kharkiv Oblast, 62500-62503, Ukraine|Vovchansk]] in [[Maps/Kharkiv Oblast, Ukraine|Kharkiv Oblast]]. internment camp, concentration camp
 
 [[war crimes|Torture]] of Ukrainians is taking place there.  
 https://twitter.com/khersonfrom/status/1561232894286348288
 
-Kids from [[Kherson|Kherson]] going to mainland [[Russia|Russia]] for summer camp where it's safe 👍🇷🇺
+Kids from [[Maps/Kherson, Херсонська міська громада, Kherson Raion, Kherson Oblast, 73000-73480, Ukraine|Maps/Kherson, Херсонська міська громада, Kherson Raion, Kherson Oblast, 73000-73480, Ukraine]] going to mainland [[Russia|Russia]] for summer camp where it's safe 👍🇷🇺
 
-Ukraine may call this forced deportation and a [[war crimes|war crime]] but it makes me happy to see
+[[Maps/Ukraine|Ukraine]] may call this forced deportation and a [[war crimes|war crime]] but it makes me happy to see
 
 https://twitter.com/sarahashtonlv/status/1559039811528364032
 
-It gets worse and worse for people trying to flee the [[Russia|Russian]] occupied parts of Ukraine.
+It gets worse and worse for people trying to flee the [[Russia|Russian]] occupied parts of [[Maps/Ukraine|Ukraine]].
 
 Exiled Mayor of [[Maps/Enerhodar, Енергодарська міська громада, Vasylivka Raion, Zaporizhia Oblast, 71500, Ukraine|Enerhodar]] says [[Russia|Russia]] has now introduced a filtration camp at the crossing point at [[Maps/Vasylivka, Василівська міська громада, Vasylivka Raion, Zaporizhia Oblast, 71600-71602, Ukraine|Vasylivka]] / Vasilievka.
 
@@ -48,11 +48,11 @@ Ukrainian volunteer asphyxiated, beaten and half-starved in [[Russia|Russian]] f
 
 https://twitter.com/benbvi3ws/status/1560302235850088449
 
-25-year-old Ihor Talalai spent 88 days in [[Russia|Russian]] captivity after being seized by [[Russia|Russian]]-controlled soldiers as he tried to evacuate people from Mariupol
+25-year-old Ihor Talalai spent 88 days in [[Russia|Russian]] captivity after being seized by [[Russia|Russian]]-controlled soldiers as he tried to evacuate people from [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]]
 
 https://twitter.com/khpg/status/1560044529373351937
 
-Russians announce the opening of a filtration camp in [[Maps/Vasylivka, Василівська міська громада, Vasylivka Raion, Zaporizhia Oblast, 71600-71602, Ukraine|Vasylivka]]. Through this settlement that residents of the [[Maps/Kherson Oblast, Ukraine|Kherson]] region leave for the territory controlled by Ukraine. This is done for more thorough checks of Ukrainians and the creation of even longer queues for departure🇺🇦
+Russians announce the opening of a filtration camp in [[Maps/Vasylivka, Василівська міська громада, Vasylivka Raion, Zaporizhia Oblast, 71600-71602, Ukraine|Vasylivka]]. Through this settlement that residents of the [[Maps/Kherson Oblast, Ukraine|Kherson]] region leave for the territory controlled by [[Maps/Ukraine|Ukraine]]. This is done for more thorough checks of Ukrainians and the creation of even longer queues for departure🇺🇦
 
 https://twitter.com/ukrainepicture/status/1562208545730613250
 
@@ -85,7 +85,7 @@ With an average of 162 people in each, our analysis suggests [[Russia|Russia]] c
 
   
 
-[[Pro-Russian|Pro-Russian]] troops at the [[Maps/Russia|Russian]]-controlled camp for Ukrainians in Bezimenne, 11 miles east of Mariupol. It can be revealed this is the first point in a chain of camps that stretches all the way to [[Russia|Russia]]’s Pacific coast.
+[[Pro-Russian|Pro-Russian]] troops at the [[Maps/Russia|Russian]]-controlled camp for Ukrainians in [[Maps/Bezimenne, Безіменська сільська рада, Novoazovsk Raion, Donetsk Oblast, 87660, Ukraine|Bezimenne]], 11 miles east of [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]]. It can be revealed this is the first point in a chain of camps that stretches all the way to [[Russia|Russia]]’s Pacific coast.
 
   
 
@@ -97,11 +97,11 @@ On the wild [[Maps/Kamchatka Peninsula, Far Eastern Federal District, Russia|Kam
 
   
 
-In [[Russia|Russia]]’s far eastern [[Maps/Primorsky Krai, Far Eastern Federal District, Russia|Maritime Territory]], which is closer to Tokyo than it is to [[Moscow|Moscow]], a local newspaper reported in late April how 300 people, including 86 children, pregnant women and pensioners, arrived in [[Maps/Vladivostok, Владивостокский городской округ, Primorsky Krai, Far Eastern Federal District, 690000, Russia|Vladivostok]] after an exhausting seven-day journey on the Trans-[[Siberian Federal District|Siberian]] Express from Taganrog.
+In [[Russia|Russia]]’s far eastern [[Maps/Primorsky Krai, Far Eastern Federal District, Russia|Maritime Territory]], which is closer to Tokyo than it is to [[Moscow|Moscow]], a local newspaper reported in late April how 300 people, including 86 children, pregnant women and pensioners, arrived in [[Maps/Vladivostok, Владивостокский городской округ, Primorsky Krai, Far Eastern Federal District, 690000, Russia|Vladivostok]] after an exhausting seven-day journey on the Trans-[[Siberian Federal District|Siberian]] Express from [[Maps/Taganrog, Rostov Oblast, Southern Federal District, Russia|Taganrog]].
 
   
 
-The new arrivals, including survivors of the Mariupol siege, were taken to the Vostok hotel complex on the coast near Nakhodka. It was the third train to arrive
+The new arrivals, including survivors of the [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] siege, were taken to the Vostok hotel complex on the coast near Nakhodka. It was the third train to arrive
 
   
 
@@ -139,13 +139,13 @@ Nerekhta in Kostroma, numbers have dropped from 120 to 90, with reports of peopl
 
 [https://inews.co.uk/news/putin-mariupol-survivors-remote-corners-russia-investigation-network-camps-1615516](https://inews.co.uk/news/putin-mariupol-survivors-remote-corners-russia-investigation-network-camps-1615516)
 
-Ukraine’s human rights ombudsman said the [[Russia|Russian]] [[Russian Military Industry|military]] was holding more than 3,000 civilians from Mariupol at another former [[prison|penal colony]] near Olenivka in the Donetsk region of eastern Ukraine.
+[[Maps/Ukraine|Ukraine]]’s [[human rights|human rights]] ombudsman said the [[Russia|Russian]] [[Russian Military Industry|military]] was holding more than 3,000 civilians from [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] at another former [[prison|penal colony]] near Olenivka in the [[Maps/Donetsk, Donetsk Municipality, Donetsk Oblast, 83000-83490, Ukraine|Donetsk]] region of eastern [[Maps/Ukraine|Ukraine]].
 
-Seven [[buses|buses]] carrying an unknown number of Ukrainian soldiers evacuated from the Mariupol steel plant were seen arriving Tuesday at former [[prison|penal colony]] No 120 near Olenivka.
+Seven [[buses|buses]] carrying an unknown number of Ukrainian soldiers evacuated from the [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] steel plant were seen arriving Tuesday at former [[prison|penal colony]] No 120 near Olenivka.
 
 Ombudsman Lyudmyla Denisova said on Telegram earlier on Tuesday that the civilians were being held at former [[prison|penal colony]] No 52, also near Olenivka. She said most civilians are held for a month, but those considered “particularly unreliable,” including former soldiers and [[police|police]], are held for two months.
 
-Denisova said those held include about 30 volunteers who delivered humanitarian supplies to Mariupol while it was under [[Russia|Russian]] siege.
+Denisova said those held include about 30 volunteers who delivered humanitarian supplies to [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] while it was under [[Russia|Russian]] siege.
 
   
 
@@ -155,7 +155,7 @@ Denisova said those held include about 30 volunteers who delivered humanitarian 
 
   
 
-More than 3,000 civilians from Mariupol, a southern city taken by the [[Russia|Russian]] [[Russian Military Industry|military]], are reportedly being held in a "filtration [[prison|prison]]," a former correctional colony, in the village of Olevivka, Lyudmyla Denisova, Ukraine's ombudsman for human rights, wrote. That is part of the Donbas region, which [[Russia|Russia]] has claimed their goal was to "liberate" during the invasion.
+More than 3,000 civilians from [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]], a southern city taken by the [[Russia|Russian]] [[Russian Military Industry|military]], are reportedly being held in a "filtration [[prison|prison]]," a former correctional colony, in the village of Olevivka, Lyudmyla Denisova, [[Maps/Ukraine|Ukraine]]'s ombudsman for [[human rights|human rights]], wrote. That is part of the Donbas region, which [[Russia|Russia]] has claimed their goal was to "liberate" during the invasion.
 
   
 
@@ -172,7 +172,7 @@ As of today, 5,100 cases of child deportation have been officially confirmed, an
 
   
 
-"In open sources, the [[Russia|Russian]] authorities give a figure of 350,000 children who have allegedly been ‘evacuated’ to [[Russia|Russia]]. During the evacuation these children should have been immediately brought back to the territory of Ukraine, but this didn’t happen.
+"In open sources, the [[Russia|Russian]] authorities give a figure of 350,000 children who have allegedly been ‘evacuated’ to [[Russia|Russia]]. During the evacuation these children should have been immediately brought back to the territory of [[Maps/Ukraine|Ukraine]], but this didn’t happen.
 
   
 
@@ -180,7 +180,7 @@ As of today, 5,100 cases of child deportation have been officially confirmed, an
 
 Add
 
- Thousands of Mariupol survivors being [[arrested|detained]] and ‘[[war crimes|tortured]]’ in [[Russia|Russia]]-controlled [[prison|prisons]] in occupied Ukraine  
+ Thousands of [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] survivors being [[arrested|detained]] and ‘[[war crimes|tortured]]’ in [[Russia|Russia]]-controlled [[prison|prisons]] in occupied [[Maps/Ukraine|Ukraine]]  
 https://inews.co.uk/news/mariupol-civilians-prison-detained-russia-putin-filtration-1637957
 
 Threatened with death, and a riot over [[war crimes|inhumane]] conditions: Inside [[Russia|Russia]]’s filtration camps for Ukrainians  
@@ -189,16 +189,16 @@ https://inews.co.uk/news/ukrainians-interrogated-russian-filtration-camps-threat
 
 [[Russia|Russian]] [[activism|activists]] have formed an ‘underground railroad’ that is helping Ukrainians [[transportation|transported]] to [[Russia|Russia]] to leave the country–with a human chain stretching between cities and across the border  
 Dean Kirby  
-[[Russia|Russian]] human rights [[activism|activists]] have formed an “underground railroad” that is helping Ukrainians [[transportation|transported]] to [[Russia|Russia]] to escape to the West, it can be revealed.  
+[[Russia|Russian]] [[human rights|human rights]] [[activism|activists]] have formed an “underground railroad” that is helping Ukrainians [[transportation|transported]] to [[Russia|Russia]] to escape to the West, it can be revealed.  
 https://inews.co.uk/news/russian-civilians-form-underground-railroad-help-ukrainians-russia-escape-west-1618034
 
 How a fenced camp for Ukrainians was tracked down to a former chemical weapons dump deep within [[Russia|Russia]]  
-INVESTIGATIONAs i revealed on Saturday, Ukraine’s human rights ombudsman, Lyudmyla Denisova, has warned that more than 400 people, including 147 children, are in a fenced camp near the city of [[Maps/Penza, Penza Oblast, Volga Federal District, 4400XX, Russia|Penza]]
+INVESTIGATIONAs i revealed on Saturday, [[Maps/Ukraine|Ukraine]]’s [[human rights|human rights]] ombudsman, Lyudmyla Denisova, has warned that more than 400 people, including 147 children, are in a fenced camp near the city of [[Maps/Penza, Penza Oblast, Volga Federal District, 4400XX, Russia|Penza]]
 
 https://inews.co.uk/news/ukraine-russia-mariupol-refugees-camp-leonidovka-1579512
 
-Mariupol survivors taken to former [[Russia|Russian]] chemical weapons base 600 miles from Ukraine border  
-Ukraine’s human rights ombudsman Lyudmyla Denisova has warned that more than 400 people, including 147 children, are in a fenced camp near the city of [[Maps/Penza, Penza Oblast, Volga Federal District, 4400XX, Russia|Penza]], according to information she has received from concerned [[Maps/Russia|Russian]] citizens  
+[[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] survivors taken to former [[Russia|Russian]] chemical weapons base 600 miles from [[Maps/Ukraine|Ukraine]] border  
+[[Maps/Ukraine|Ukraine]]’s [[human rights|human rights]] ombudsman Lyudmyla Denisova has warned that more than 400 people, including 147 children, are in a fenced camp near the city of [[Maps/Penza, Penza Oblast, Volga Federal District, 4400XX, Russia|Penza]], according to information she has received from concerned [[Maps/Russia|Russian]] citizens  
 https://inews.co.uk/news/mariupol-ukraine-russia-war-leonidovka-putin-1579199
 
 [[Russia|Russia]] [[war crimes|war crimes]] investigators reveal ‘numerous and consistent’ reports of forced Ukrainian deportations  
@@ -206,8 +206,8 @@ INVESTIGATIONThe report comes days after i revealed that Vladimir Putin is sendi
 
 https://inews.co.uk/news/russia-war-crimes-ukraine-osce-report-forced-deportations-1574282
 
-Mariupol survivors interrogated in [[Russia|Russian]] filtration camps as many face little chance of returning to Ukraine  
-INVESTIGATIONSurvivors from Mariupol are being interrogated in “filtration” camps before being taken into [[Russia|Russia]].
+[[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] survivors interrogated in [[Russia|Russian]] filtration camps as many face little chance of returning to [[Maps/Ukraine|Ukraine]]  
+INVESTIGATIONSurvivors from [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] are being interrogated in “filtration” camps before being taken into [[Russia|Russia]].
 
 https://inews.co.uk/news/mariupol-survivors-interrogated-russian-camps-impossible-battle-return-ukraine-1571716
 
@@ -216,12 +216,12 @@ Vladimir Putin is resettling Ukrainians to [[Siberian Federal District|Siberia]]
 
 https://inews.co.uk/news/vladimir-putin-ukraine-russia-mariupol-siberia-kremlin-1569431
 
-Mariupol mayor says 30,000 people deported to [[Russia|Russia]] as satellite images reveal [[Russia|Russian]] camp for Ukrainians  
+[[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] mayor says 30,000 people deported to [[Russia|Russia]] as satellite images reveal [[Russia|Russian]] camp for Ukrainians  
 INVESTIGATIONMariupol mayor Vadym Boychenko’s warning comes a day after i revealed using satellite images that [[Russia|Russia]] has built a tented camp for Ukrainians just 11 miles to the east of the besieged city
 
 https://inews.co.uk/news/mariupol-mayor-says-thirty-thousand-deported-to-russia-satellite-images-reveal-russian-camp-for-ukrainians-1542144
 
-Satellite images show [[Russia|Russian]] tent camp for Ukrainians near Mariupol as claims of forced deportations grow  
-INVESTIGATIONRussia may have constructed ‘filtration’ camps inside Ukraine as it did in [[Maps/Chechen Republic, North Caucasian Federal District, Russia|Chechnya]]
+Satellite images show [[Russia|Russian]] tent camp for Ukrainians near [[Maps/Mariupol, Mariupol Urban Hromada, Mariupol Raion, Donetsk Oblast, 87500-87590, Ukraine|Mariupol]] as claims of forced deportations grow  
+INVESTIGATIONRussia may have constructed ‘filtration’ camps inside [[Maps/Ukraine|Ukraine]] as it did in [[Maps/Chechen Republic, North Caucasian Federal District, Russia|Chechnya]]
 
 https://inews.co.uk/news/ukraine-russia-war-putin-mauripol-deportations-filtration-camps-1539050-1539050
