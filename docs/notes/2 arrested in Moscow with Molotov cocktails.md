@@ -1,0 +1,18 @@
+---
+{"dg-home":false,"dg-publish":true,"aliases":["2 [[OSINT Project/Maps/Pushkin Square, 49, Tverskoy District, Moscow, Central Federal District, 127238, Russia|Pushkin Square]] in [[OSINT Project/Maps/Moscow, Central Federal District, Russia|Moscow]] with Molotov cocktails"],"title":"2 [[OSINT Project/Maps/Pushkin Square, 49, Tverskoy District, Moscow, Central Federal District, 127238, Russia|Pushkin Square]] in [[OSINT Project/Maps/Moscow, Central Federal District, Russia|Moscow]] with Molotov cocktails","tag":"molotov","date":"2022-03-06","locations":"geo:55.7652553,37.6053056","linter-yaml-title-alias":"2 [[OSINT Project/Maps/Pushkin Square, 49, Tverskoy District, Moscow, Central Federal District, 127238, Russia|Pushkin Square]] in [[OSINT Project/Maps/Moscow, Central Federal District, Russia|Moscow]] with Molotov cocktails","permalink":"/2-arrested-in-moscow-with-molotov-cocktails/","dgHomeLink":true,"dgPassFrontmatter":true}
+---
+
+
+[[Maps/Pushkin Square, 49, Tverskoy District, Moscow, Central Federal District, 127238, Russia|Pushkin Square]], [[Maps/Moscow, Central Federal District, Russia|Moscow]] (geo:55.7652553,37.6053056)
+
+# 2 [[arrested|arrested]] in [[Moscow|Moscow]] with Molotov cocktails
+
+2022-03-06  
+[[Molotov|Molotov]]  
+Other  
+https://enoughisenough14.org/2022/06/29/fundraiser-for-anton-zhuchkov-and-other-news-on-political-prisoners-russia/  
+On March 6, during [[anti-war|anti-war]] meeting, Anton Zhuchkov and his friend Vladimir Sergeev were [[arrested|arrested]] in the center of [[Moscow|Moscow]], in [[Pushkin square|Pushkin square]]. They was [[searched|searched]], and [[police|police]] found two Molotov cocktails in the backpack of Sergeev. But instead of a [[police|police]] station, they were both sent to Sklifosovskiy emergency [[hospital|hospital]]. In [[police|police]] [[automobiles|van]], Anton and Sergey attempted to commit a [[suicide|suicide]], by taking lethal doses of methadone. While two friends from [[Omsk|Omsk]] were in coma, a criminal investigation was initiated. When they recovered, they were transferred to a remand [[prison|prison]]. In the beginning, they were accused of ”armed [[hooliganism|hooliganism]]”, but later on charges were changed to ”preparation of a terrorist attack”.  
+[[Maps/Pushkin Square, 49, Tverskoy District, Moscow, Central Federal District, 127238, Russia|Pushkin Square]], [[Moscow|Moscow]]
+
+During an [[anti-war|anti-war]] demonstration on March 6 in [[Moscow|Moscow]], Anton and Vladimir planned to use Molotov cocktails to set [[fire|fire]] to empty [[arrested|detention]] [[buses|buses]], purposed for [[transportation|transportation]] of the people [[arrested|arrested]] at the demo, then take a lethal dose of methadone and die. But it happened that Vladimir and Anton were [[arrested|detained]] before their action. The [[police|police]] and [[national guard|national guard]] tried to [[prevent|prevent]] the [[demonstration|demonstration]] as such, so they [[arrested|detained]] everyone on the way to the assembly point. After the [[arrested|detention]] they found Molotov cocktails, but no methadone. Anton and Vladimir, realizing that they were going to [[prison|jail]] and that they would now have no way of [[influencing|influencing]] the situation, took a lethal dose of methadone during their [[arrested|arrested]]. At first the guys were accused of [[preparation|preparation]] to “[[hooliganism|hooliganism]]”. But the case attracted the attention of the [[FSB|FSB]], and at the direction of the special service the [[charge|charge]] was [[reclassified|reclassified]] to “preparation for a terrorist attack”. https://enoughisenough14.org/2022/05/27/vladimir-sergeev-and-anton-zhuchkov-need-your-support-russia/  
+~+~  

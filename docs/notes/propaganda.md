@@ -1,0 +1,9 @@
+---
+{"dg-home":false,"dg-publish":true,"aliases":"fake news, fake-news, fakenews, influence industry,","locations":null,"tag":null,"date":null,"title":"propaganda","permalink":"/propaganda/","dgHomeLink":true,"dgPassFrontmatter":true}
+---
+
+> **propaganda** is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in news and journalism, government, advertising, entertainment, education, and [[activism|activism]] and is often associated with material which is prepared by governments as part of war efforts, political campaigns, health campaigns, [[revolutionaries|revolutionaries]], big businesses, ultra-religious organizations, the media, and certain individuals such as soapboxers.
+>
+> In the 20th century, the English term propaganda was often associated with a manipulative approach, but historically, propaganda has been a neutral descriptive term of any material that promotes certain opinions or ideologies. Equivalent non-English terms have also largely retained the original neutral connotation.A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, [[All Satellite TV Channels Hacked|TV]] shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, bots and algorithms are currently being used to create computational propaganda and fake or biased news and spread it on social media.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Propaganda)
