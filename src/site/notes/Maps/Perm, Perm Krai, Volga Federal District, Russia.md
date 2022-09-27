@@ -3,4 +3,4 @@
 ---
 
 
-camp name [[Camp Little Prince|../Camp Little Prince]]
+[[Camps|camp]] name [[Camp Little Prince|../Camp Little Prince]]
